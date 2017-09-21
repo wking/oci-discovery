@@ -10,6 +10,9 @@
 [submodule "tools/cmd/vendor/github.com/sirupsen/logrus"]
 	path = tools/cmd/vendor/github.com/sirupsen/logrus
 	url = https://github.com/sirupsen/logrus.git
+[submodule "tools/cmd/vendor/github.com/stretchr/testify"]
+	path = tools/cmd/vendor/github.com/stretchr/testify
+	url = https://github.com/stretchr/testify.git
 [submodule "tools/cmd/vendor/github.com/urfave/cli"]
 	path = tools/cmd/vendor/github.com/urfave/cli
 	url = https://github.com/urfave/cli.git
