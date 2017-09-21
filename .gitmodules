@@ -1,0 +1,18 @@
+[submodule "tools/cmd/vendor/github.com/jtacoma/uritemplates"]
+	path = tools/cmd/vendor/github.com/jtacoma/uritemplates
+	url = https://github.com/jtacoma/uritemplates.git
+[submodule "tools/cmd/vendor/github.com/opencontainers/go-digest"]
+	path = tools/cmd/vendor/github.com/opencontainers/go-digest
+	url = https://github.com/opencontainers/go-digest.git
+[submodule "tools/cmd/vendor/github.com/opencontainers/image-spec"]
+	path = tools/cmd/vendor/github.com/opencontainers/image-spec
+	url = https://github.com/opencontainers/image-spec.git
+[submodule "tools/cmd/vendor/github.com/sirupsen/logrus"]
+	path = tools/cmd/vendor/github.com/sirupsen/logrus
+	url = https://github.com/sirupsen/logrus.git
+[submodule "tools/cmd/vendor/github.com/urfave/cli"]
+	path = tools/cmd/vendor/github.com/urfave/cli
+	url = https://github.com/urfave/cli.git
+[submodule "tools/cmd/vendor/golang.org/x/net"]
+	path = tools/cmd/vendor/golang.org/x/net
+	url = https://go.googlesource.com/net
